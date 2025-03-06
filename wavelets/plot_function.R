@@ -1,6 +1,4 @@
-# file with necessary plotting functions
-
-# function to plot cases
+# function to plot case counts
 plot_cases = function(df,dir,column="cases_avg_per_100k"){
   pdf(paste0(dir,paste0("/",column,".pdf")),height=7,width=7)
   par(mar=c(3,4,1,1))
