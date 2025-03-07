@@ -1,0 +1,14 @@
+I0          1000
+R0          2.5
+gamma       0.1428571
+t_max       3650
+imm_min     0
+imm_shape   5
+imm_t       95
+N           1e6
+dt          1
+imm_tshape  1e10
+seas_amp    0.025
+seas_period 365
+seas_shift  0.5
+seed        0
