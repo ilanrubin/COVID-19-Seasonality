@@ -15,7 +15,7 @@ Wavelet analysis is in the directory wavelets.
 
 The rest of the files load the necessary data. The data directory contains a few files that are not easily downloaded via an api (e.g., they are downloaded as a .zip and have to be uncompressed first), but all are still publically available.
 
-### SIRS Mpdel with Waning Immunity
+### SIRS Model with Waning Immunity
 An individual-based implementation of the SIRS model with waning immunity is in the directory SIRS.
 
 *run_model_LHS.R* - What the user will likely want to run. Is a script to do Latine Hyopercube Sampling and run the model over defined parameter ranges.
